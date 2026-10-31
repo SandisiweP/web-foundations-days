@@ -1,0 +1,5 @@
+# Course Reflection
+
+Throughout this software engineering journey, mastering backend system design, RESTful API structures, and relational database modeling proved to be both challenging and immensely rewarding. The most difficult concept for me to grasp initially was managing asynchronous concurrency and race conditions—specifically ensuring data integrity like preventing double-bookings during high-traffic surges. I overcame this challenge by breaking down transaction isolation levels, utilizing database constraints, and working through practical simulations like the TicketHub architecture.
+
+Based on the feedback received during capstone and project reviews, I would improve my project documentation and error handling rigor, ensuring that every edge case in API requests is cleanly accounted for and communicated. Moving forward, I plan to dive deeper into cloud infrastructure, DevOps pipelines, and cybersecurity principles to build even more secure, scalable, and production-ready applications.
